@@ -7,5 +7,14 @@
       "image": "https://i.postimg.cc/9Fw8Lf0c/stf.jpg",
       "name": "ExquisiteStef"
     }
+  ],
+  "nft2": [
+    {
+      "id": 0,
+      "description": "The Sun is the most powerfull person in the galaxy",
+      "external_url": "https://i.postimg.cc/VNd5Dbw4/thesun.jpg",
+      "image": "https://i.postimg.cc/VNd5Dbw4/thesun.jpg",
+      "name": "The Sun"
+    }
   ]
 }
